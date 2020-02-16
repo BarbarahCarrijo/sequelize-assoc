@@ -1,7 +1,6 @@
 # sequelize-assoc
 
-# dev-map-api
-#### API de cadastro e mapeamento de desenvolvedores
+#### API CRUD 
 Este projeto foi iniciado com o Node.js, tem como finalidade fixação do conteúdo aprendido durante a semana Omini Stack, onde foi realizado o desenvolvimento de uma aplicação que mantem cadastros de devs.
 Esta API consome dados providos da API do [GitHub](https://github.com) 
 
