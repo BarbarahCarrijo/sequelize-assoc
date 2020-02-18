@@ -17,14 +17,13 @@ Aqui estão as tecnologias usadas neste projeto:
 No diretório raiz do projeto, execute:
 
 ### `npm install`
-
 Executa a instalação das dependências do projeto.
 
 ### `npm start`
-
+Executa o aplicativo no modo de desenvolvimento.<br />
 ... ainda faltam alguns scripts, que adicionarei em breve ...
 
-Executa o aplicativo no modo de desenvolvimento.<br />
+
 Abra [http://localhost:3000](http://localhost:3000) para acessá-lo pelo navegador.
 
 
